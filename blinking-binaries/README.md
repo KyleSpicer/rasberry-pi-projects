@@ -35,7 +35,11 @@ Displaying: 3, 00000011
 5. 8 x resistors
 6. 9 x male-to-male cables (8 for leds, 1 for bread board)  
 
-### Setting Up Physical Components
+### Setup Images
+![Example Image](images/1.jpg)
+![Example Image](images/2.jpg)
+![Example Image](images/3.jpg)
+
 
 
 ## **How To Run Program**
