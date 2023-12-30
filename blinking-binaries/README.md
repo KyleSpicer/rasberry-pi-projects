@@ -36,9 +36,9 @@ Displaying: 3, 00000011
 6. 9 x male-to-male cables (8 for leds, 1 for bread board)  
 
 ### Setup Images
-![Example Image](images/1.jpg)
-![Example Image](images/2.jpg)
-![Example Image](images/3.jpg)
+![Image 1](images/1.jpg)
+![Image 2](images/2.jpg)
+![Image 3](images/3.jpg)
 
 
 
